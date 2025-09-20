@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            OperacionesHelper.SumaGithub(10, 5);
+            OperacionesHelper.SumaGithub(20, 5);
         }
     }
 }
